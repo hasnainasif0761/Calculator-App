@@ -30,3 +30,29 @@
     margin: 10px;
     cursor: pointer;
 }
+#backspace
+{
+    background-color: rgb(237, 89, 30);
+    color: white;
+}
+#res
+{
+    padding: 10px;
+}
+#clear
+{
+    background: rgb(237, 89, 30);
+    color: white;
+}
+form #output
+{
+    display: flex;
+    justify-content: flex-end;
+    margin: 15px 0;
+}
+form #output input
+{
+    text-align: right;
+    flex:1;
+    font-size: 25px;
+}
